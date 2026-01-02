@@ -23,3 +23,6 @@ Management wants to understand sales performance across products and regions.
 ## Recommendation
 Review discount strategy in East region to improve margin.
 
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
